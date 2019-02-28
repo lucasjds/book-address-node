@@ -1,0 +1,13 @@
+{
+    "name": "@runkit/lucasjds_5c781fb74a13740012f294d0",
+    "version": "0.0.0-master",
+    "main": "./lib/5c781fb74a13740012f294d0",
+    "dependencies": {
+        "express": "4.16.4",
+        "mysql": "2.16.0",
+        "body-parser": "1.18.3"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}
